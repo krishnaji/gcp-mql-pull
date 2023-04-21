@@ -10,4 +10,4 @@ python metrics.py
 ```
 
 ### Next Steps
-To automate this use Cloud Functions or Cloud Run.
+To automate this use Cloud Functions or Cloud Run to schduel and ingest into big query or db of your choice
